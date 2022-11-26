@@ -34,6 +34,8 @@ function setup() {
   
   heading= createElement("h1");
   scoreboard= createElement("h1");
+  
+  console.log("Press .Space.key to start")
 }
 
 function draw() {
